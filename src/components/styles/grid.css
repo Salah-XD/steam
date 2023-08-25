@@ -1,0 +1,27 @@
+.grid {
+  text-align: center;
+  height: 200vh;
+  padding: 120px 20px;
+
+  /* width: 100%; */
+  background: url("./../../../public/img/grid.png") no-repeat;
+}
+.cds img {
+  width: 400px;
+  padding: 10px;
+}
+.rf {
+  color: #efba00;
+  font-size: 21px;
+}
+.bd {
+  padding: 0 20px;
+  margin-top: 70px;
+  display: flex;
+  /* text-align: top; */
+  color: #fff;
+  justify-content: space-between;
+}
+.bd span {
+  font-size: 70px;
+}

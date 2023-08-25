@@ -9,7 +9,7 @@ function Main() {
           Lab n <span>Box</span>
         </h2>
         <h2 className="text2">
-          Unleash Your
+          Unleash Your{" "}
           <i>
             Inner Explorers{" "}
             <span>

@@ -1,0 +1,30 @@
+.card {
+  background: #f8f5ec;
+  text-align: center;
+  padding: 70px 20px;
+}
+.cd img {
+  width: 250px;
+  padding: 10px;
+}
+.cd {
+  padding: 20px;
+  margin-bottom: 20px;
+}
+.title h3 {
+  margin: 20px 0;
+  margin-bottom: 40px;
+  color: #777777;
+  font-weight: 300;
+}
+.title h1 span {
+  color: #efba00;
+}
+.card a {
+  /* margin-top: 80px; */
+  text-decoration: none;
+  color: #fff;
+  background-color: #efba00;
+  padding: 15px;
+  border-radius: 10px;
+}

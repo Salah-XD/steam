@@ -22,10 +22,11 @@
   color: #efba00;
 }
 .text2 {
-  font-size: 38px;
+  font-size: 35px;
   font-family: "Poppins", sans-serif;
   font-weight: 700;
   color: black;
+  letter-spacing: 1px;
 }
 .text2 i {
   color: #efba00;
@@ -38,6 +39,7 @@
   font-family: "Poppins", sans-serif;
   font-weight: 400;
   color: black;
+  margin-bottom: 20px;
 }
 .sub .cc {
   color: #0a4f6d;
@@ -46,8 +48,10 @@
   color: #efba00;
 }
 .main__left a {
+  margin-top: 30px;
   text-decoration: none;
   color: #fff;
   background-color: #efba00;
-  padding: 7px;
+  padding: 10px;
+  border-radius: 5px;
 }
