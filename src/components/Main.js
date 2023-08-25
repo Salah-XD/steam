@@ -11,11 +11,15 @@ function Main() {
         <h2 className="text2">
           Unleash Your
           <i>
-            Inner Explorers <span><strong>!</strong></span>
+            Inner Explorers{" "}
+            <span>
+              <strong>!</strong>
+            </span>
           </i>
         </h2>
-        <h4>
-          Discover the fusion of Steamtastic education and <br />
+        <h4 className="sub">
+          Discover the fusion of <span className="cc">Steam</span>
+          <span className="cb">tastic</span> education and <br />
           practical experience within the virtual world.
         </h4>
         <a href="#">Join the Lab n Box Community &#8594;</a>

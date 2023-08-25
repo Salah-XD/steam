@@ -33,3 +33,21 @@
 .text2 span {
   color: #063042;
 }
+.sub {
+  font-size: 20px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  color: black;
+}
+.sub .cc {
+  color: #0a4f6d;
+}
+.sub .cb {
+  color: #efba00;
+}
+.main__left a {
+  text-decoration: none;
+  color: #fff;
+  background-color: #efba00;
+  padding: 7px;
+}
