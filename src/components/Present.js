@@ -15,6 +15,39 @@ function Present() {
         src="./img/vector.png"
         alt=""
       />
+      <img
+        style={{
+          left: "75%",
+          position: "absolute",
+          width: "75px",
+          top: "10%",
+          zIndex: "1",
+        }}
+        src="./img/vector2.png"
+        alt=""
+      />
+      <img
+        style={{
+          left: "45%",
+          position: "absolute",
+          width: "75px",
+          top: "60%",
+          zIndex: "1",
+        }}
+        src="./img/vector2.png"
+        alt=""
+      />
+      <img
+        style={{
+          left: "74%",
+          position: "absolute",
+          width: "75px",
+          top: "60%",
+          zIndex: "1",
+        }}
+        src="./img/vector3.png"
+        alt=""
+      />
 
       <div className="content">
         <h1>
